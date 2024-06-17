@@ -1,6 +1,6 @@
 
+![image](https://github.com/jack2684/alpinely.ai/assets/1225301/3ea82097-6410-4d32-9bbb-f9fa6adcdde3)
 
-![image](https://github.com/jack2684/alpinely.ai/assets/1225301/2763e833-b828-4ee5-9a4f-eca2c4581228)
 
 We make lightweight and practical tools for life.
 
