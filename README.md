@@ -5,7 +5,7 @@
 We make lightweight and practical tools for life.
 
 
-## Upload/Questions/Feedback
+## Upload your audio
 Self-service upload is coming soon! Before that please reach out to us to upload your own audio.
 
 contact us at <jack@alpinely.ai>
