@@ -10,6 +10,6 @@ Self-service upload is coming soon! Before that please reach out to us to upload
 
 contact us at <jack@alpinely.ai>
 
-## Tips on upload
+## How to upload from audible?
 
 [Libation](https://github.com/rmcrackan/Libation) is a great free open-source tool to download audio book mp3 + cue. Highly recommend it.
