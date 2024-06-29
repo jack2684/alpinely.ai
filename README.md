@@ -11,7 +11,7 @@ Self-service upload is coming soon! Before that feel free to send audio files to
 ## How to get audio from libro.fm?
 ![image](https://github.com/jack2684/alpinely.ai/assets/1225301/9abbe9ee-4705-4015-9074-0faa6f053b23)
 
-[libro.fm](https://libro.fm/) is a great platform that support mp3 download officically. You just need to go to your library: [https://libro.fm/user/library ](https://libro.fm/user/library )
+[libro.fm](https://libro.fm/) is a great platform that support mp3 download officically. Simply go to your library and download: [https://libro.fm/user/library ](https://libro.fm/user/library )
 
 ## How to get audio from audible?
 ![image](https://github.com/jack2684/alpinely.ai/assets/1225301/e7eb055b-b01f-477b-a257-fa90d9bf6b01)
