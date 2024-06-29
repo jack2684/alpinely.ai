@@ -5,11 +5,14 @@
 We make lightweight and practical tools for life.
 
 
-## Upload your audio
-Self-service upload is coming soon! Before that please reach out to us to upload your own audio.
+## Connectin your audio books
+Self-service upload is coming soon! Before that feel free to send audio files to <jack@alpinely.ai>
 
-contact us at <jack@alpinely.ai>
-
-## How to upload from audible?
+## How to get audio from [audible](https://www.audible.com/)?
 
 [Libation](https://github.com/rmcrackan/Libation) is a great free open-source tool to download audio book mp3 + cue. Highly recommend it.
+
+## How to get audio from [libro.fm](https://libro.fm/)?
+
+
+[libro.fm](https://libro.fm/) is a great platform that support mp3 download officically. You just need to go to your library: https://libro.fm/user/library 
