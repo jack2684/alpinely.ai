@@ -20,7 +20,7 @@ Self-service upload is coming soon! Before that feel free to send audio files to
 There is free open-source tools like [Libation](https://github.com/rmcrackan/Libation) to download audio book mp3 + cue. Highly recommend it.
 
 
-### Understanding DRM Removal Risks 
+### Understanding DRM operation
 
 Based on the search results, telling people about DRM removal tools is generally not considered illegal, but there are some important nuances to be aware of:
 
