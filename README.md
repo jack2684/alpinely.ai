@@ -17,7 +17,7 @@ Self-service upload is coming soon! Before that feel free to send audio files to
 ![image](https://github.com/jack2684/alpinely.ai/assets/1225301/e7eb055b-b01f-477b-a257-fa90d9bf6b01)
 
 
-[Libation](https://github.com/rmcrackan/Libation) is a great free open-source tool to download audio book mp3 + cue. Highly recommend it.
+There is free open-source tools like [Libation](https://github.com/rmcrackan/Libation) to download audio book mp3 + cue. Highly recommend it.
 
 
 ### Understanding DRM Removal Risks 
