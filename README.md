@@ -5,7 +5,7 @@
 We make lightweight and practical tools for life.
 
 
-## Connectin your audio books
+## Connecting to your audio books library
 Self-service upload is coming soon! Before that feel free to send audio files to <jack@alpinely.ai>
 
 ## How to get audio from libro.fm?
