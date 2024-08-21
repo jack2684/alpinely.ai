@@ -4,7 +4,9 @@
 
 We make lightweight and practical tools for life.
 
+Reach out to us at <jack@alpinely.ai>
 
+<!---
 ## Connecting to your audio books library
 Self-service upload is coming soon! Before that feel free to ask <jack@alpinely.ai> to help you upload.
 
@@ -42,3 +44,4 @@ Citations:
 [3] https://www.mobileread.com/forums/showthread.php?t=213833
 [4] http://www.mindelscott.com/2022/10/25/is-it-legal-to-remove-drm-from-ebooks/
 [5] https://www.virtualdj.com/forums/73656/General_Discussion/Is_it_illegal_to_use_DRM_Removal_tools__.html
+-->
