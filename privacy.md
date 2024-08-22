@@ -1,4 +1,4 @@
-# Alpinelly App Privacy Policy
+# Alpinely App Privacy Policy
 
 **Effective Date:** June 16, 2024
 
