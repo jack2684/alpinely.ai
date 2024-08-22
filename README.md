@@ -6,6 +6,15 @@ We make lightweight and practical tools for life.
 
 Reach out to us at <jack@alpinely.ai>
 
+## Littly - The simplest baby tracker
+Effortless baby tracking through natural chat among family. Simply discuss your baby's activities, and Littly records events automatically in the background.
+
+### Referral program
+1. During public preview phase, this app is invite only and free.
+2. For each referral, both you and your friend get 1 month free.
+3. Family member join for free.
+4. Your free quota is applicable even after launch when pricing is implemented.
+
 <!---
 ## Connecting to your audio books library
 Self-service upload is coming soon! Before that feel free to ask <jack@alpinely.ai> to help you upload.
