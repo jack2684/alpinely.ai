@@ -10,7 +10,7 @@ Welcome! Your privacy is important to us. This privacy policy outlines how we ha
 
 ### Personal Information
 
-Audiiolit does not collect or store any personally identifiable information (PII) from its users. This means we do not gather data such as your name, address, email, phone number, or any other information that can be used to identify you as an individual.
+The app does not collect or store any personally identifiable information (PII) from its users. This means we do not gather data such as your name, address, email, phone number, or any other information that can be used to identify you as an individual.
 
 ### Anonymous User Data
 
@@ -44,4 +44,4 @@ If you have any questions or concerns about this privacy policy or our data prac
 
 **Email:** jack@alpinely.ai
 
-Thank you for using Audiiolit. Your privacy is our priority.
+Thank you for choosing apps from alpinley. Your privacy is our priority.
