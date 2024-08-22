@@ -13,9 +13,10 @@ Effortless baby tracking through natural chat among family. Simply discuss your 
 Right now during public preview, Littly is open free to all the early birds! We are happy to hear any feedback from you.
 
 ### Referral program
-2. For each referral, both you and your friend get 1 month free credits.
-3. Family member can always join the baby for free.
-4. This free quota is applicable even after launch when pricing is implemented.
+1. For each referral, both you and your friend get 1 month free credits.
+2. Family member can always join the baby for free.
+3. This free quota is applicable even after launch when pricing is implemented.
+
 
 <!---
 ## Connecting to your audio books library
