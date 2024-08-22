@@ -1,10 +1,10 @@
-# Audiiolit App Privacy Policy
+# Alpinelly App Privacy Policy
 
 **Effective Date:** June 16, 2024
 
 ## Introduction
 
-Welcome to Audiiolit! Your privacy is important to us. This privacy policy outlines how we handle your personal information and protect your privacy while using our app. 
+Welcome! Your privacy is important to us. This privacy policy outlines how we handle your personal information and protect your privacy while using our app. 
 
 ## Information We Collect
 
