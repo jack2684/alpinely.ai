@@ -1,10 +1,12 @@
-
-![image](https://github.com/jack2684/alpinely.ai/assets/1225301/3ea82097-6410-4d32-9bbb-f9fa6adcdde3)
-
+![image](https://github.com/user-attachments/assets/1b0cef08-f0bb-4ae2-a0f2-2c1ac934fe66)
 
 We make lightweight and practical tools for life.
 
-Reach out to us at <jack@alpinely.ai>
+Reach out to us at:
+
+1. 📮 <jack@alpinely.ai>
+2. X: <https://x.com/alpinelyai>
+3. Reddit: <https://www.reddit.com/r/alpinleyai/>
 
 ## Littly - The simplest baby tracker
 Effortless baby tracking through natural chat among family. Simply discuss your baby's activities, and Littly records events automatically in the background.
