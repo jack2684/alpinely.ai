@@ -16,8 +16,10 @@ Right now during public preview, Littly is open free to all the early birds! We 
 
 ### Referral program
 1. For each referral, both you and your friend get 1 month free credits.
-2. Family member can always join the baby for free.
-3. This free quota is applicable even after launch when pricing is implemented.
+  2. You will get 1 month free for each friend that signed up for subscriptions
+  3. Your friend get 1 free month upfront when subscribing.
+4. Family member can always join the baby for free.
+5. This free quota is applicable even after launch when pricing is implemented.
 
 
 <!---
