@@ -12,7 +12,7 @@ Reach out to us at:
 Effortless baby tracking through natural chat among family. Simply discuss your baby's activities, and Littly records events automatically in the background.
 
 ### Early bird free for life! 🎉
-Right now during public preview, Littly is open free to all the early birds! And every early will have lifetime free access. We are happy to hear any feedback from you.
+Right now during public preview, Littly is open free to all the early birds! And every early sign-up will have lifetime free access. Your feedback is invaluable in our mission to make parenting easier – we're all ears!
 
 ### Referral program
 1. For each referral, both you and your friend get 1 month free credits.
