@@ -9,6 +9,8 @@ Reach out to us at:
 3. Reddit: <https://www.reddit.com/r/alpinleyai/>
 
 ## Littly - The simplest baby tracker
+[![image](https://github.com/user-attachments/assets/a38a8945-baac-4b15-8fde-a8dbf1e3345c)](https://apps.apple.com/us/app/littly-smart-baby-tracker/id6550890095)
+
 Effortless baby tracking through natural chat among family. Simply discuss your baby's activities, and Littly records events automatically in the background.
 
 ### Early bird free for life! 🎉
