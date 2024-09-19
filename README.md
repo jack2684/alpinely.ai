@@ -6,7 +6,7 @@ Reach out to us at:
 
 1. 📮 <jack@alpinely.ai>
 2. X: <https://x.com/alpinelyai>
-3. Reddit: <https://www.reddit.com/r/alpinleyai/>
+3. Reddit: <https://www.reddit.com/r/littly/hot/>
 
 ## Littly - The simplest baby tracker
 
